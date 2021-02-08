@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Results-focused Tableau-Certified Desktop Specialist with strong technical proficiencies in PostgresSQL, Excel, and Tableau. Eager to combine business acumen and Data Analysis to understand the context around data and drive impact. Experience working cross-functionally and collaboratively, with the ability to translate high-level tasks into specific steps and to communicate complex analysis in simple, insightful ways.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
+[Back To The Home Page](index.md)
 
 [jekyll-organization]: https://github.com/jekyll
