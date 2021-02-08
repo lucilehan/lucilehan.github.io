@@ -21,11 +21,16 @@
 title: Lucile Han
 email: lucilehan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my public portfolio. 
+  Welcome to my public portfolio.
 baseurl: "/myportfolio" # the subpath of your site, e.g. /blog
 url: "https://lucilehan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: _lucilehan
 github_username:  lucilehan
+
+# Fields minima uses, but are not defaulted with the jekyll new command.
+# Author is the default for posts, the Atom feed, and is used in the footer.
+author: Lucile Han
+linkedin_username: lucilehan
+instagram_username: lucilehan
 
 # Build settings
 # Removed minima theme as it is now a regular theme.
