@@ -1,6 +1,3 @@
-# my-repo
+# My Portfolio
 
-Welcome to my repo!
-
-1. Don't forget to check this out
-2. Don't forget to check that out
+Welcome to my public portfolio.
